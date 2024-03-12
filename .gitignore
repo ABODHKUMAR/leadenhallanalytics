@@ -1,0 +1,4 @@
+/dashboard-chat-project/node_modules
+/dashboard-chat-project/client/node_modules
+/dashboard-chat-project/client/node_modules/.gitignore
+/dashboard-chat-project/.env
